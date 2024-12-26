@@ -62,3 +62,8 @@ Foreign Keys: Establish relationships between tables:
 Constraints:
   NOT NULL ensures critical fields are always populated.
   UNIQUE prevents duplicate entries for fields like email and mobile number.
+
+# OUTPUT:
+
+<img width="238" alt="image" src="https://github.com/user-attachments/assets/beee77ff-8a90-4ff4-8d72-5067737ac262" />
+
